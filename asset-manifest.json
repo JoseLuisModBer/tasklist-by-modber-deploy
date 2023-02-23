@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tasklist-by-modber-deploy/static/css/main.f04cbadb.css",
+    "main.js": "/tasklist-by-modber-deploy/static/js/main.705294ce.js",
+    "index.html": "/tasklist-by-modber-deploy/index.html",
+    "main.f04cbadb.css.map": "/tasklist-by-modber-deploy/static/css/main.f04cbadb.css.map",
+    "main.705294ce.js.map": "/tasklist-by-modber-deploy/static/js/main.705294ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f04cbadb.css",
+    "static/js/main.705294ce.js"
+  ]
+}
